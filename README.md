@@ -22,7 +22,7 @@ This section combines products where diodes are connected by wires or are on old
 <h4>Products with separately located diodes connected by flexible wires</h4>
 <p><i>(Products for belly dancing, Peacock Tails, ballet tutus, angel wings, etc.)</i></p>
 
-<img src="images/separate-diodes-wires.jpg" alt="Individual diodes with wires" style="max-width:100%;">
+<img src="images/separate-diodes-wires.gif" alt="Individual diodes with wires" style="max-width:100%;">
 
 <p>In the video below you can see the <b>diode replacement process</b>: <a href="https://www.youtube.com/embed/c3QmbBcWxTw">Watch on YouTube</a></p>
 
@@ -30,7 +30,7 @@ This section combines products where diodes are connected by wires or are on old
 
 <p><b>Pay attention to the dot on the LED</b>, it points at the <b>negative wire</b>. Below you will see the polarity of each wire:</p>
 
-<img src="images/led-polarity-dot.jpg" alt="LED polarity diagram" style="max-width:100%;">
+<img src="images/LED polarity diagram showing negative dot.jpeg" alt="LED polarity diagram" style="max-width:100%;">
 
 <p>Also, <b>do not forget to remove the varnish</b> well from the LED wires before twisting, and if you have a soldering iron, <b>it is better to solder the connection.</b></p>
 
@@ -40,15 +40,15 @@ This section combines products where diodes are connected by wires or are on old
 
 <p>Products are made from such LEDs:</p>
 
-<img src="images/single-leds.jpg" alt="Single LEDs" style="max-width:100%;">
+<img src="images/single-leds.png" alt="Single LEDs" style="max-width:100%;">
 
 <p>These diodes are interconnected in a strip:</p>
 
-<img src="images/interconnected-led-strip.jpg" alt="LEDs interconnected in a strip" style="max-width:100%;">
+<img src="images/Image of LEDs interconnected in a strip.gif" alt="LEDs interconnected in a strip" style="max-width:100%;">
 
 <p>In case of problems with this type of diode, <b>you need to replace one strip with a damaged wire or diode</b>:</p>
 
-<img src="images/replace-led-strip.jpg" alt="Replacing an LED strip" style="max-width:100%;">
+<img src="images/Image showing replacement of an LED strip.jpeg" alt="Replacing an LED strip" style="max-width:100%;">
 
 <p>To replace the strip, you need <b>to remove the diodes from the eyelets</b>, <b>remove the heat shrink and remove the tape</b>. <b>Put the heat shrink on the new LED strip, glue the LEDs back with superglue, and insulate the connections with heat shrink.</b></p>
 
@@ -63,7 +63,7 @@ This section combines products where diodes are connected by wires or are on old
 <br>
 <h4>Products made using a factory-produced LED strip (distance between diodes can be different)</h4>
 
-<img src="images/factory-led-strip.jpg" alt="Factory LED strip" style="max-width:100%;">
+<img src="images/Image of factory LED strip.jpeg" alt="Factory LED strip" style="max-width:100%;">
 
 <p>In the video you can see the <b>diode replacement process</b>: <a href="https://www.youtube.com/embed/XLc9dmGdp3g">Watch on YouTube</a></p>
 
@@ -71,7 +71,7 @@ This section combines products where diodes are connected by wires or are on old
 
 <p><b>Pay attention to the arrow on the LED strip</b>, it indicates the direction of the strip. Below you will see the polarity of the strip:</p>
 
-<img src="images/strip-polarity-arrow.jpg" alt="LED strip polarity diagram" style="max-width:100%;">
+<img src="images/contacts.jpeg" alt="LED strip polarity diagram" style="max-width:100%;">
 
 <p>Contacts are also signed on the strip itself. You need to solder it according to the contacts.</p>
 
@@ -84,7 +84,7 @@ This section combines products where diodes are connected by wires or are on old
 <br>
 <h4>Products with a new type of flexible LED strip</h4>
 
-<img src="images/new-flexible-strip.jpg" alt="New type flexible LED strip" style="max-width:100%;">
+<img src="images/new-flexible-strip.gif" alt="New type flexible LED strip" style="max-width:100%;">
 
 <p><b>The video shows two ways to replace the LED:</b> <a href="https://www.youtube.com/embed/FBgQjQYbFiI">Watch on YouTube</a></p>
 
@@ -105,7 +105,7 @@ This section combines products where diodes are connected by wires or are on old
 
 <p><b>LED wiring diagram:</b></p>
 
-<img src="images/wiring-diagram.jpg" alt="LED wiring diagram" style="max-width:100%;">
+<img src="images/LED wiring diagram showing polarity.jpeg" alt="LED wiring diagram" style="max-width:100%;">
 
 <p><b>2). Using soldering</b> - All steps of this method are similar, <b>only instead of twisting, you need to tin the wires and solder them with a soldering iron.</b></p>
 
