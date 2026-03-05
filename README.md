@@ -1,12 +1,10 @@
-# LED-repair
-
 # Attention, be sure to check that you are using the correct batteries and they are fully charged!
 
 You can find out which **batteries are suitable** for our devices and **how to charge them with the Imax B6** charger using the links below:
 
-[What batteries are needed?](https://desk.zoho.com/portal/etereshop/en/kb/articles/what-batteries-are-needed)
+[What batteries are needed?](https://github.com/etereshop-sales/All-about-batteries)
 
-[How to charge 18650 type batteries with Imax B6 charger or similar?](https://desk.zoho.com/portal/etereshop/en/kb/articles/how-to-charge-18650-type-batteries-with-imax-b6-charger-or-similar)
+[How to charge 18650 type batteries with Imax B6 charger or similar?](https://github.com/etereshop-sales/All-about-batteries?tab=readme-ov-file#-step-1-charging-batteries-with-a-conventional-splitter)
 
 If you are sure **you are using the correct batteries** and **they are fully charged**, the **effect is reproduced normally** (without jerks and freezes), and **part of the product does not glow**, which means that the **diode has burned out or the wire has come off (**break **in the soldering**)** as a result of mechanical damage. **But don't worry, it's easy to fix!**
 
@@ -16,96 +14,103 @@ Below you will see how to fix the problem on different products with different t
 
 ---
 
-### Products with separately located diodes connected by flexible wires (products for belly dancing, Peacock Tails, ballet tutus, angel wings, etc.):
+<details>
+<summary><b>1. Old flexible tape (WS2812B, PL9823) and individual diodes</b></summary>
+<br>
+This section combines products where diodes are connected by wires or are on old types of flexible tape. Suitable for: LED jackets, old Peacock Tails, Bellydance costumes, ballet tutus, angel wings.
 
-![Image showing separate diodes connected by wires](https://desk.zoho.com/galleryDocuments/edbsn21072bb52d714c505a3ebd0ae0fec906063b97a92b29854b1f15c6ecdc74326bbbe8359641cb9d355a0ce404a61eeb2e?inline=true)
+<h4>Products with separately located diodes connected by flexible wires</h4>
+<p><i>(Products for belly dancing, Peacock Tails, ballet tutus, angel wings, etc.)</i></p>
 
-In the **video**, you can see the **diode replacement process**.
+<img src="images/separate-diodes-wires.jpg" alt="Individual diodes with wires" style="max-width:100%;">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c3QmbBcWxTw" frameborder="0" allowfullscreen sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-popups allow-downloads"></iframe>
+<p>In the video below you can see the <b>diode replacement process</b>: <a href="https://www.youtube.com/embed/c3QmbBcWxTw">Watch on YouTube</a></p>
 
-**To accurately fix the problem, we recommend replacing two LEDs. The one that glows last, and the one that does not glow!**
+<p><b>To accurately fix the problem, we recommend replacing two LEDs: the one that glows last, and the one that does not glow!</b></p>
 
-**Pay attention to the dot on the LED**, it points at the **negative wire**. Below you will see the polarity of each wire:
+<p><b>Pay attention to the dot on the LED</b>, it points at the <b>negative wire</b>. Below you will see the polarity of each wire:</p>
 
-![LED polarity diagram showing negative dot](https://desk.zoho.com/galleryDocuments/edbsna523a4c249f79865048542502e8fc3515fcca7a9c4c322936b41926ab4019936c53f2917170e6d7b0ad728c485fce8cb?inline=true)
+<img src="images/led-polarity-dot.jpg" alt="LED polarity diagram" style="max-width:100%;">
 
-Also, **do not forget to remove the varnish** well from the LED wires before twisting, and if you have a soldering iron, **it is better to solder the connection.**
+<p>Also, <b>do not forget to remove the varnish</b> well from the LED wires before twisting, and if you have a soldering iron, <b>it is better to solder the connection.</b></p>
 
----
+<hr>
 
-### Products made **using a factory-produced LED strip** (Distance between diodes can be different):
+<h4>Products made using single diodes interconnected by wires (LED jackets)</h4>
 
-![Image of factory LED strip](https://desk.zoho.com/galleryDocuments/edbsnaba523f01ed1a51a896fa274186712b75a96229ba88706dd19a8a9376475eb7cd6fd5a3b002664434ec1c3fb78c32b48?inline=true)
+<p>Products are made from such LEDs:</p>
 
-In the **video** you can see the **diode replacement process**.
+<img src="images/single-leds.jpg" alt="Single LEDs" style="max-width:100%;">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XLc9dmGdp3g" frameborder="0" allowfullscreen sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-popups allow-downloads"></iframe>
+<p>These diodes are interconnected in a strip:</p>
 
-**To accurately fix the problem, we recommend replacing two LEDs. The one that glows last, and the one that does not glow!**
+<img src="images/interconnected-led-strip.jpg" alt="LEDs interconnected in a strip" style="max-width:100%;">
 
-**Pay attention to the arrow on the LED strip**, it indicates the direction of the strip. Below you will see the polarity of the strip:
+<p>In case of problems with this type of diode, <b>you need to replace one strip with a damaged wire or diode</b>:</p>
 
-![LED strip polarity diagram showing arrow and +/- contacts](https://desk.zoho.com/galleryDocuments/edbsn308dae618cd14b4c6379009b9b274750935aad297e97561b3ceaff83d15332d069af01e2580073f3aeb867b1b7573268?inline=true)
+<img src="images/replace-led-strip.jpg" alt="Replacing an LED strip" style="max-width:100%;">
 
-Contacts are also signed on the strip itself. You need to solder it according to the contacts.
+<p>To replace the strip, you need <b>to remove the diodes from the eyelets</b>, <b>remove the heat shrink and remove the tape</b>. <b>Put the heat shrink on the new LED strip, glue the LEDs back with superglue, and insulate the connections with heat shrink.</b></p>
 
----
+<p>In the video you see the replacement of the LED strip on the jacket: <a href="https://www.youtube.com/embed/rEJG0qQuwB4">Watch on YouTube</a></p>
 
-### Products made using **single diodes interconnected by wires** (LED jackets):
-
-Products are made from such LEDs:
-
-![Image of single LEDs](https://desk.zoho.com/galleryDocuments/edbsn03db197c1d7a82cf7c490da680cf0034ab748fc4d557d0dd96ba8a0b9ccdc239f2a3c3a5129689ab4d90726a350311f7?inline=true)
-
-These diodes are interconnected in a strip:
-
-![Image of LEDs interconnected in a strip](https://desk.zoho.com/galleryDocuments/edbsnafcfae6f59d227d123046d9986838ff258ae92b5f1cee4694559b8e347cd4e396735374f9ac9a87cd26ce93c13bc27bc?inline=true)
-
-In case of problems with this type of diode, **you need to replace one strip with a damaged wire or diode**:
-
-![Image showing replacement of an LED strip](https://desk.zoho.com/galleryDocuments/edbsnf36ec44208469415677764f3ec676ed8ed50424569259e533156fcc650d9d7b91d5e1942227f852b6f3ebea8c8fcfea6?inline=true)
-
-To replace the strip, you need **to remove the diodes from the eyelets**, **remove the heat shrink and remove the tape**. **Put the heat shrink on the new LED strip, glue the LEDs back with superglue, and insulate the connections with heat shrink.**
-
-In the video you see the replacement of the LED strip on the jacket:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rEJG0qQuwB4" frameborder="0" allowfullscreen sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-popups allow-downloads"></iframe>
+</details>
 
 ---
 
-### Products with a **new type of flexible LED strip**:
+<details>
+<summary><b>2. Factory-produced LED strip</b></summary>
+<br>
+<h4>Products made using a factory-produced LED strip (distance between diodes can be different)</h4>
 
-![Image of new type flexible LED strip](https://desk.zoho.com/galleryDocuments/edbsn6b7b55bbe11b4bc1deebc50005e672b72930f277b16230240628a57e006c0c3a63141ee02e226901f388971fa57312d4?inline=true)
+<img src="images/factory-led-strip.jpg" alt="Factory LED strip" style="max-width:100%;">
 
-**The video shows two ways to replace the LED:**
+<p>In the video you can see the <b>diode replacement process</b>: <a href="https://www.youtube.com/embed/XLc9dmGdp3g">Watch on YouTube</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FBgQjQYbFiI" frameborder="0" allowfullscreen sandbox="allow-scripts allow-forms allow-same-origin allow-presentation allow-popups allow-downloads"></iframe>
+<p><b>To accurately fix the problem, we recommend replacing two LEDs. The one that glows last, and the one that does not glow!</b></p>
 
-**1). With the help of twisting**, **this is an emergency method** that involves repairing **when you do not have a soldering iron nearby**.
+<p><b>Pay attention to the arrow on the LED strip</b>, it indicates the direction of the strip. Below you will see the polarity of the strip:</p>
 
-You need to **place the LED strip in front of you**, **droplet up**, and do the following steps step by step:
+<img src="images/strip-polarity-arrow.jpg" alt="LED strip polarity diagram" style="max-width:100%;">
 
-- **Cut the LED strip** (this can be done with wire cutters, knife or scissors).
-- **Separate the wires** of the LED strip.
-- **Strip the insulation** from the wires (using wire cutters, a knife or scissors. Our specialist in the video does this with his hands)
-- **Put heat shrink** on the wires.
-- **Connect the wires together by twisting them** (In the picture below, you will see the location of the polarity of the wires).
-- **Put heat shrink on the twist**.
-- **Check the operation of the tape**, if it does not glow, then double-check the correct twisting of the wires
-- **Heat the heat shrink** (in the video we use a professional hair dryer, but you can use a lighter)
+<p>Contacts are also signed on the strip itself. You need to solder it according to the contacts.</p>
 
-**LED wiring diagram:**
+</details>
 
-![LED wiring diagram showing polarity](https://desk.zoho.com/galleryDocuments/edbsn07d235e47679e9baaf67c3668b858b1e020f6a2820ab0f80bacf676fa0d9c0421ec9556b04c8a9145bca1cdcb23bdec0?inline=true)
+---
 
-**2). Using soldering -** All steps of this method are similar, **only instead of twisting, you need to tin the wires and solder them with a soldering iron.**
+<details>
+<summary><b>3. New type of flexible LED strip</b></summary>
+<br>
+<h4>Products with a new type of flexible LED strip</h4>
 
-**Hot melt adhesive can be used for additional sealing in both methods!**
+<img src="images/new-flexible-strip.jpg" alt="New type flexible LED strip" style="max-width:100%;">
 
-**To accurately fix the problem, we recommend replacing two LEDs. The one that glows last, and the one that does not glow!**
+<p><b>The video shows two ways to replace the LED:</b> <a href="https://www.youtube.com/embed/FBgQjQYbFiI">Watch on YouTube</a></p>
 
-    8.  **Heat the heat shrink** to secure it (using a lighter or hairdryer).
-- **Process (Soldering Method - Preferred):** The steps are the same as the twist method, but instead of twisting, you **tin and solder** the wires together.
-- **Recommendation:** Replace two LEDs – the last one that glows and the one that does not.
-- **Bonus Tip:** Use hot melt glue for additional sealing and protection in either method.
+<p><b>1). With the help of twisting</b> - <b>this is an emergency method</b> that involves repairing <b>when you do not have a soldering iron nearby</b>.</p>
+
+<p>You need to <b>place the LED strip in front of you</b>, <b>droplet up</b>, and do the following steps step by step:</p>
+
+<ul>
+<li><b>Cut the LED strip</b> (this can be done with wire cutters, knife or scissors).</li>
+<li><b>Separate the wires</b> of the LED strip.</li>
+<li><b>Strip the insulation</b> from the wires (using wire cutters, a knife or scissors. Our specialist in the video does this with his hands).</li>
+<li><b>Put heat shrink</b> on the wires.</li>
+<li><b>Connect the wires together by twisting them</b> (In the picture below, you will see the location of the polarity of the wires).</li>
+<li><b>Put heat shrink on the twist</b>.</li>
+<li><b>Check the operation of the tape</b>, if it does not glow, then double-check the correct twisting of the wires.</li>
+<li><b>Heat the heat shrink</b> (in the video we use a professional hair dryer, but you can use a lighter).</li>
+</ul>
+
+<p><b>LED wiring diagram:</b></p>
+
+<img src="images/wiring-diagram.jpg" alt="LED wiring diagram" style="max-width:100%;">
+
+<p><b>2). Using soldering</b> - All steps of this method are similar, <b>only instead of twisting, you need to tin the wires and solder them with a soldering iron.</b></p>
+
+<p><b>Hot melt adhesive can be used for additional sealing in both methods!</b></p>
+
+<p><b>To accurately fix the problem, we recommend replacing two LEDs. The one that glows last, and the one that does not glow!</b></p>
+
+</details>
