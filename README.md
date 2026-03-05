@@ -1,5 +1,5 @@
 # LED-repair
-```markdown
+
 # Attention, be sure to check that you are using the correct batteries and they are fully charged!
 
 You can find out which **batteries are suitable** for our devices and **how to charge them with the Imax B6** charger using the links below:
@@ -105,7 +105,6 @@ You need to **place the LED strip in front of you**, **droplet up**, and do the 
 
 **To accurately fix the problem, we recommend replacing two LEDs. The one that glows last, and the one that does not glow!**
 
-```
     8.  **Heat the heat shrink** to secure it (using a lighter or hairdryer).
 - **Process (Soldering Method - Preferred):** The steps are the same as the twist method, but instead of twisting, you **tin and solder** the wires together.
 - **Recommendation:** Replace two LEDs – the last one that glows and the one that does not.
