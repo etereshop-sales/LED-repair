@@ -48,7 +48,7 @@ This section combines products where diodes are connected by wires or are on old
 
 <p>In case of problems with this type of diode, <b>you need to replace one strip with a damaged wire or diode</b>:</p>
 
-<img src="images/Image showing replacement of an LED strip.jpeg" alt="Replacing an LED strip" style="max-width:100%;">
+<img src="images/LED-strip-replacement.jpeg" alt="Replacing an LED strip" style="max-width:100%;">
 
 <p>To replace the strip, you need <b>to remove the diodes from the eyelets</b>, <b>remove the heat shrink and remove the tape</b>. <b>Put the heat shrink on the new LED strip, glue the LEDs back with superglue, and insulate the connections with heat shrink.</b></p>
 
