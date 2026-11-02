@@ -60,7 +60,7 @@ You will also need:
 - a small sharp knife
 - heat shrink tubing (thin plastic tubes that shrink when heated and cover the connection)
 - a lighter or a hair dryer to shrink the tubing
-- *optional, but better:* a soldering iron and solder
+- *optional, but recommended:* a simple soldering iron (about 5–10 USD), solder and a little flux
 - *optional:* hot glue gun for extra protection, superglue (only for LED jackets)
 
 ---
@@ -159,11 +159,16 @@ Here everything is printed on the strip: the **arrow** shows the direction, and 
 
 1. Cut the strip along the thin white line across the copper pads, before and after the broken LEDs. Cut through the middle of the pads so that some copper stays on both sides.
 2. Take a piece of strip from the repair kit with the same number of LEDs. Check that its **arrows point the same way** as on the rest of the strip.
-3. Connect the pads with short wires or solder them directly: **5V to 5V, DI/DO to DI/DO, GND to GND**.
-4. Short test: connect the power, check, disconnect.
-5. Cover the joints with heat shrink tubing or hot glue.
+3. Take three short pieces of wire, strip about 5–10 mm of insulation from both ends, and slide heat shrink tubing onto them.
+4. Connect the pads with these wires: **5V to 5V, DI/DO to DI/DO, GND to GND**.
+   - **Soldering (recommended):** put a little flux on the pad and the wire end (dip it or use an applicator), touch them with solder and heat with the soldering iron for a second or two. That's all, no special skills needed.
+   - **Twisting (if you have no soldering iron):** wrap the bare wire tightly around the pad or the wire coming from it. This works, but it is less reliable.
+5. Make sure the connections do not touch each other.
+6. Short test: connect the power, check, disconnect.
+7. Cover the joints with heat shrink tubing and heat it, or cover them with hot glue.
 
-A soldering iron is needed for this type. If you do not have one, write to us (section 8).
+> [!TIP]
+> A simple soldering iron costs about 5–10 USD. Together with a little flux and solder it makes every repair faster and much more reliable, so we recommend getting one.
 
 ### Type D: LEDs on 3 clear wires (new flexible strip)
 
